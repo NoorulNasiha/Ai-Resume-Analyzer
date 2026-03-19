@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+env/
+venv/
+.env
+
+# Node
+node_modules/
+.next/
+out/
+
+# VS Code
+.vscode/
+
+# Docker
+*.log
+*.sqlite
+
+# Mac
+.DS_Store
