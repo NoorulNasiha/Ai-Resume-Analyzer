@@ -16,6 +16,10 @@ A full-stack application that analyzes resumes against job descriptions using NL
 - **Storage:** PostgreSQL / MongoDB (configurable)
 - **Deployment:** Docker, Kubernetes / Cloud auto-scaling
 
+## Example Output
+
+![Detailed Analysis Output Example](./output_example.png)
+
 ## Architecture Overview
 
 This repository is structured as a modular full-stack application:
